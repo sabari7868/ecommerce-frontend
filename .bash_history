@@ -1,0 +1,4 @@
+lx
+ls
+whoami
+ls

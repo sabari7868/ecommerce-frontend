@@ -1,0 +1,1 @@
+window.BACKEND_URL = 'http://<REPLACE_WITH_BACKEND_URL>';
